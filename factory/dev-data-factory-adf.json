@@ -1,0 +1,9 @@
+{
+	"name": "dev-data-factory-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7173ab12-f1e3-4017-9b25-054e0f742797",
+		"tenantId": "fbff1bfb-1cbe-4ab1-b6c0-daa1a9c58dee"
+	}
+}
